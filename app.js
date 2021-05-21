@@ -1,1 +1,1 @@
-alert('HELLO THEE');
+alert('This is a new message');
